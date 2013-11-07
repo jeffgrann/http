@@ -1,0 +1,49 @@
+{
+    "name": "http",
+    "version": "1.0.0",
+    "description": "Provides basic HTTP protocol support.",
+    "main": "./http.js",
+    "keywords": [
+        "wakanda",
+        "javascript",
+        "HTTP"
+        ],
+    "author": {
+        "name": "Jeff Grann",
+        "web": "https://github.com/jeffgrann"
+    },
+    "maintainers": [
+        {
+        "name": "Jeff Grann",
+        "web": "https://github.com/jeffgrann"
+    }
+    ],
+    "contributors": [
+        ],
+    "bugs": {
+        "web": "https://github.com/jeffgrann/http/issues"
+    },
+    "licenses": [
+        {
+        "type": "MIT",
+        "url": "https://github.com/jeffgrann/http/blob/master/LICENSE"
+    }
+    ],
+    "repositories": [
+        {
+        "type": "git",
+        "url": "https://github.com/jeffgrann/http"
+    }
+    ],
+    "dependencies": {
+        "server-side": {
+            "wakanda": "6.146205"
+        },
+        "browser-side": {
+            "requireJS": "2.1.8"
+        }
+    },
+    "os": ["linux", "macos", "win"],
+    "engines": ["wakanda"
+                          ]
+}
