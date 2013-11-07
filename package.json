@@ -1,6 +1,6 @@
 {
     "name": "http",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Provides basic http constants and utilities.",
     "main": "./http.js",
     "keywords": [

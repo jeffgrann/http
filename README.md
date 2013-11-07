@@ -1,6 +1,6 @@
 
-http v1.0
-=========
+http v1.0.2
+===========
 
 http is a unified Javascript RequireJS/CommonJS module for the browser or Wakanda Server (SSJS)
 which provides basic http constants and utilities. 
