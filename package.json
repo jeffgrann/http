@@ -1,7 +1,7 @@
 {
     "name": "http",
     "version": "1.0.0",
-    "description": "Provides basic HTTP protocol support.",
+    "description": "Provides basic http constants and utilities.",
     "main": "./http.js",
     "keywords": [
         "wakanda",
@@ -45,5 +45,5 @@
     },
     "os": ["linux", "macos", "win"],
     "engines": ["wakanda"
-                          ]
+                                  ]
 }
